@@ -130,7 +130,7 @@ function xdewatogel() {window.open("http://linkdwt.us/register?referral_code=bun
 function xsquad777() {window.open("https://pro.squad777-play.site/register?ref=bunsin");}
 function xmpo888() {window.open("https://3.mpo888ok.com/register/DB50318F");}
 function x8togel() {window.open("https://8togel.com/referral/GACOR777");}
-function xscbet88() {window.open("https://www.scbet88cor.xyz/ref/?rid=rf1e12634b7");}
+function xscbet88() {window.open("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
 function xshiokambing() {window.open("https://adarezeki.com/register?ref=rakuyaba");}
 function xhoki177() {window.open("https://kota177.com/register?ref=rakuyaba");}
 function xgacor88() {window.open("https://jackpotgacor88.top/register?ref=vtFlLkv");}
