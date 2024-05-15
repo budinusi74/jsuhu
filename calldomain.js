@@ -3,7 +3,7 @@ function xhedon77() {window.open("https://hedon77b.pro/daftar?ref_id=5f6e2101");
 function xsinarmas77() {window.open("https://sinarmas77.xyz/");}
 function xeqn77() {window.open("https://eqn777.xyz/register/EVCWMKG6");}
 function xindoslot88() {window.open("https://indoslot88.cfd/");}
-function xlanjut88() {window.open("https://lanjut88bosku.com/?ref=rakuyaba");}
+function xlanjut88() {window.open("https://lanjut88top.online/?ref=rakuyaba");}
 function xjetplay88() {window.open("https://jetplay88oke.shop/register/W4J0K065");}
 function xkoin313() {window.open("https://top1coin.site/register?ref=8tzjPAm");}
 function xindoagen188() {window.open("https://indagen188.bond/register/W518KB66");}
