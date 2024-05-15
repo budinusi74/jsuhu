@@ -140,7 +140,7 @@ function xbom29toto() {window.open("https://bom29toto.top/link.php?member=rakuya
 function xairbet88() {window.open("https://situsairbet88gacor.com/register?ref=rakunn");}
 function xgaulbet77() {window.open("https://lagaulbettujuh01.site/register/YPLRNNDQ");}
 function xlapakslot777() {window.open("https://lapakjuara.top/register/WM0KJ7Q2");}
-function xharbet35() {window.open("https://harbet35.monster/?ref=rakuyaba");}
+function xharbet35() {window.open("https://harbet35.digital/?ref=rakuyaba");}
 function xpreman69() {window.open("https://preman69pro.link/daftar?ref=rakuyaba");}
 function xtokekwin() {window.open("http://1tokekwin.com/daftar?ref=rakuyaba");}
 function xjnt77() {window.open("https://jnt77superbet.com/daftar?ref_id=5f6e2101");}
