@@ -152,7 +152,7 @@ function xroyal123() {window.open("https://www.royal123ck.com/register?ref=F88M1
 function xn77toto() {window.open("http://n77toto.website/register?referral_code=rakuyaba");}
 function xmpocasino() {window.open("https://mpocasino-situs-gacor.com/register/Y85226NG");}
 function xnagatop() {window.open("https://nagatop-aman2.online//register?ref=bunsin");}
-function xaquaslot() {window.open("https://aquaslotsweet.com/?ref=bunsin");}
+function xaquaslot() {window.open("https://aquaslot3.com/?ref=bunsin");}
 function xome88() {window.open("https://www.ome88.wtf/register?ref=COXGMBL134C");}
 function xmega38() {window.open("https://mg38ku.store/register?ref=naynlqk");}
 function xmpo369() {window.open("https://mpo369b6.com/register/W7N46140");}
