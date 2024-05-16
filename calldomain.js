@@ -12,7 +12,7 @@ function xnusabet() {window.open("https://nusasite.fun/register?ref=4406747");}
 function xtkp303() {window.open("https://tkp333a.com/");}
 function x303hoki() {window.open("https://303hkpecah.com/register/Y66KPQ1K");}
 function xapi77() {window.open("https://iphatscripts.com/account/register/158909985");}
-function xcor77() {window.open("https://cor77l.com/register?ref=8GGAEAC1CUR");}
+function xcor77() {window.open("https://cor77c.com/register?ref=8GGAEAC1CUR");}
 function xvit88() {window.open("https://vit88link5.store/register?ref=1yKc2W9");}
 function xadipatislot() {window.open("https://adipatislotz.com/");}
 function xlotuspelangi() {window.open("https://lotuspelangi1.com/daftar?ref=rakuyaba");}
