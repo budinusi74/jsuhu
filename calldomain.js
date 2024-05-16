@@ -125,7 +125,7 @@ function xhoki138() {window.open("https://hoki138vvip.net/");}
 function xmansion77() {window.open("https://www.mansionsku777.org/register?ref=4225754");}
 function xtatabet() {window.open("https://tatabet0524.com/");}
 function xsatutogel() {window.open("https://www.xn--satutogel-yv6ni36m.com/");}
-function xlotto01() {window.open("https://winlotomax.net/referral/BUNSIN");}
+function xlotto01() {window.open("https://angkajitu01.net/referral/BUNSIN");}
 function xdewatogel() {window.open("http://linkdwt.us/register?referral_code=bunsin");}
 function xsquad777() {window.open("https://pro.squad777-play.site/register?ref=bunsin");}
 function xmpo888() {window.open("https://3.mpo888ok.com/register/DB50318F");}
