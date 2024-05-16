@@ -162,5 +162,5 @@ function xchatfb() {window.open("https://www.facebook.com/profile.php?id=6155349
 function xbetcoinasia() {window.open("https://btcasia.xyz/?ref=bunsin");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
-function xpphoki() {window.open("https://pphoki55.site/?ref=rakuyaba");}
+function xpphoki() {window.open("https://pphoki.nl/?ref=rakuyaba");}
 function xupdate() {window.open("http://judisuhu.online/");}
