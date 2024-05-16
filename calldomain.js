@@ -5,7 +5,7 @@ function xeqn77() {window.open("https://eqn777.xyz/register/EVCWMKG6");}
 function xindoslot88() {window.open("https://indoslot88.cfd/");}
 function xlanjut88() {window.open("https://lanjut88top.online/?ref=rakuyaba");}
 function xjetplay88() {window.open("https://jetplay88only.lol/register/W4J0K065");}
-function xkoin313() {window.open("https://top1coin.site/register?ref=8tzjPAm");}
+function xkoin313() {window.open("https://www.kointop313.xyz/register?ref=8tzjPAm");}
 function xindoagen188() {window.open("https://indagen188.bond/register/W518KB66");}
 function xnexus77() {window.open("https://noblockss.blogspot.com/");}
 function xnusabet() {window.open("https://nusasite.fun/register?ref=4406747");}
