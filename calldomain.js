@@ -34,7 +34,7 @@ function xkenzo188() {window.open("https://kenzo188pro.vip/register?ref=A3MMMAF4
 function xpmg88() {window.open("https://pmg88qris.xyz/register?ref=u2y78Bp");}
 function xagen288() {window.open("https://agen288uu.com/");}
 function xnyaitogel() {window.open("https://nyaikingkong.xyz/link.php?member=rakuyaba");}
-function xpintutogel() {window.open("http://pintuidntoto.com/register?referral_code=rakuyaba");}
+function xpintutogel() {window.open("https://pintutogel.lol/register?referral_code=rakuyaba");}
 function xantiktoto() {window.open("https://jituantik.online/link.php?member=rakuyaba");}
 function xklikjp() {window.open("https://klikjepe.com/register?referral=rakuyaba");}
 function xkijangwin() {window.open("https://kijangwinplay.pro/daftar?ref=rakuyaba");}
