@@ -89,7 +89,7 @@ function xagenslot168() {window.open("https://ags168pro.club/register/Y7G7GR7B")
 function xamanah77() {window.open("https://amnhxzeus.site/");}
 function xligahoki89() {window.open("https://ligahoki89.baby/register?ref=M3tFPwe");}
 function xrajampo() {window.open("https://id.rajampoidn.com/register/YGN7NR6L");}
-function xpusaka787() {window.open("https://psk787go.pro/register?ref=RAKUYABA");}
+function xpusaka787() {window.open("https://787pusakakita.site/register?ref=RAKUYABA");}
 function xibutogel() {window.open("https://ibutogell.life/");}
 function xsupertogel() {window.open("https://ssuuppeertogel.com/");}
 function xamavi88() {window.open("https://amavi88e.com/register/W65R5800");}
