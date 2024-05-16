@@ -70,7 +70,7 @@ function xmpo666() {window.open("https://mpo666ao.com/register/WM41P433");}
 function xmpo555() {window.open("https://belhamel-catering.com/register/WR3N6NQ9");}
 function xkadobet() {window.open("https://kadobetaa.xyz/?ref=rakuyaba");}
 function xsweet777() {window.open("https://sweet77.cfd/register?ref=GS2AEAB0SVJ");}
-function xhokiwin() {window.open("https://hokiwiny.com/register/Y5NQP87K");}
+function xhokiwin() {window.open("https://hokiwinaa.com/register/Y5NQP87K");}
 function xkas138() {window.open("https://kas138kb.com/?ref=rakuyaba");}
 function xjudi388() {window.open("https://kusukajd.top/register?reff=rakuyaba");}
 function xkudetabet98() {window.open("https://kudetabet98okemantap.com/");}
