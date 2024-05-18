@@ -381,7 +381,7 @@ hr {
   
 .keterangan-font-size{
     text-align:justify;
-    font-size: 18px;
+    font-size: 12px;
     font-weight: bolder;
     color: #444444;
 }
@@ -424,8 +424,8 @@ hr {
   padding: 0 0px;
   float: left;
   height:70px;
-
 }
+
 @media only screen and (max-width: 700px) {
   .responsiveaman, .responsivewaspada, .responsivebahaya{
     margin: 0px 0;
@@ -439,12 +439,22 @@ hr {
 .responsiveaman {
   background-color:#507f5c;
 }
+.responsiveaman:hover {
+  background-color:#00ffc4;
+}
 .responsivewaspada {
   background-color:#70751d;
+}
+.responsivewaspada:hover {
+  background-color:#fff000;
 }
 .responsivebahaya {
   background-color:#6d1818fa;
 }
+.responsivebahaya:hover {
+  background-color:#ff0000;
+}
+
 .clearfix:after {
   content: "";
   display: table;
