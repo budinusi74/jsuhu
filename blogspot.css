@@ -2,17 +2,18 @@
 
 .tombol {
   position:relative;
-  left:-1.5%;
+  left:0%;
   padding:0px 0px 0px 0px;
   margin: 2px 1px 0px 1px;
-  font-family: inherit;
+  font-family: revert-layer;
   font-size: 16px;
   line-height: inherit;
   width: 21.8%;
   height: 70px;
   background-color: #0000004d;
-  border: 2px solid #fffb00;
-  border-radius: 10px;
+  border-radius: 25px;
+  border-bottom:ridge;
+  border-color:silver;
   font-weight: bold;
   color: black;
   cursor: pointer;
