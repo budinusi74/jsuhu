@@ -136,7 +136,7 @@ function xgacor88() {window.open("https://secure.livechatinc.com/customer/action
 function xdemen303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11194722");}
 function xgacorslot() {window.open("https://gacorslots.site/register/WQ8K3KMR");}
 function xbom29toto() {window.open("https://bom29toto.top/link.php?member=rakuyaba");}
-function xairbet88() {window.open("https://linkairbet88online.space/register?ref=rakunn");}
+function xairbet88() {window.open("https://situsslotairbet88.store/register?ref=rakunn");}
 function xgaulbet77() {window.open("https://www.asdgaulbet77asd.site/register/YPLRNNDQ");}
 function xcabe777() {window.open("https://cabe777.xyz/register/W9LK0R2P");}
 function xharbet35() {window.open("https://harbet35win.site/?ref=rakuyaba");}
