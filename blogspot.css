@@ -91,11 +91,12 @@
 .tutoroverlay-content {
   background-color:#979797;
   position: relative;
-  top: 8%;
+  top: 9%;
   width: 95%;
   text-align: initial;
   margin: 20px 0px 0px 2%;
-  padding:30px;
+  padding:2% 3%;
+  border-radius:10px;
 }
 
 .tutoroverlay a {
