@@ -268,7 +268,9 @@ font-size: 0.5rem;
 
 .warnatextchat {
   font-size: xx-large;
-  color: blue;
+  color: #73ff48;
+  text-shadow: 2px 1px 0px rgba(39 36 36 / 75%),
+              0px 0px 5px rgba(2 2 2 / 75%);
 }
   
 .videocara {
