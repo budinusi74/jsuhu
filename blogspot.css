@@ -403,7 +403,7 @@ hr {
 .bgbahaya, .bgwaspada, .bgdomain, .bgchatadmin {
   background-repeat:no-repeat;
   background-position:top;
-  height:500px;
+  height:auto;
 }  
 
 .color-red{
