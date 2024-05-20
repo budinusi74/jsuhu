@@ -235,21 +235,37 @@ font-size: 0.5rem;
 }  
   
 .fb, .tawk, .tutup {
+  color:white;
   border-radius:25px;
-  font-size:11px;
+  font-weight:900;
+  font-size:20px;
   float: left;
   height:50px;
   width: 33.3%;
+  border-bottom:ridge;
+  text-overflow: ellipsis;
+  text-shadow: 2px 1px 0px rgba(39 36 36 / 75%),
+              0px 0px 5px rgba(2 2 2 / 75%);
 }
-.fb, .tawk {
-  color: white;
+.tutup {
+  background-color: #767c7d;
 }
-.fb {
-  background-color: #0866ff;
+.tutup:hover {
+  background-color:#fff;
 }
 .tawk {
   background-color: #03a84e;
 }
+.tawk:hover {
+  background-color:#00ff72;
+}
+.fb {
+  background-color: #3300fd;
+}
+.fb:hover {
+  background-color:#0866ff;
+}
+
 .warnatextchat {
   font-size: xx-large;
   color: blue;
@@ -258,40 +274,62 @@ font-size: 0.5rem;
 .videocara {
   height: 450px;
   width: 100%;
+  border-radius:10px;
 }
 
 .warnabahaya {
   font-size: xx-large;
   color: red;
+  text-shadow: 2px 1px 0px rgba(39 36 36 / 75%),
+              0px 0px 5px rgba(2 2 2 / 75%);
 }
 
 .cancelbtn1, .deletebtn1 {
+  font-weight:900;
   border-radius:25px;
-  color:black;
+  color:white;
   font-size:20px;
   float: left;
   height:50px;
   width: 49.9%;
+  border-bottom:ridge;
+  text-overflow: ellipsis;
+  text-shadow: 2px 1px 0px rgba(39 36 36 / 75%),
+              0px 0px 5px rgba(2 2 2 / 75%);
 }
 
 /* Add a color to the cancel button */
 .cancelbtn1 {
-  background-color: #00ff6f;
+  background-color: #507f5c;
+}
+.cancelbtn1:hover {
+  background-color:#00ffc4;
 }
 
 /* Add a color to the delete button */
 .deletebtn1 {
-  background-color: #f44336;
+  background-color: #6d1818fa;
+}
+.deletebtn1:hover {
+  background-color:#ff0000;
 }
 
 .ttpupdatelink {
-border-radius:25px;
+  margin:15px 0px 0px 0px;
+  border-radius:25px;
   font-size:20px;
   float: left;
   height:50px;
   width: 100%;
-  background-color: #00ff6f;
-  color: black;
+  background-color: #43df87;
+  color: white;
+  border-bottom:ridge;
+  text-overflow: ellipsis;
+  text-shadow: 2px 1px 0px rgba(39 36 36 / 75%),
+              0px 0px 5px rgba(2 2 2 / 75%);
+}
+.ttpupdatelink:hover {
+  background-color:#00ffd4;
 }
 
 /* Add padding and center-align text to the container */
@@ -319,7 +357,8 @@ border-radius:25px;
 .modalbahaya1-content {
   background-color: #a1afae;
   margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
-  border: 1px solid #888;
+  border: 2px ridge #89ada5;
+  border-radius:35px;
   width: 80%; /* Could be more or less, depending on screen size */
 }
 
@@ -381,13 +420,14 @@ hr {
 }
   
 .keterangan-font-size{
+    padding:20px;
     text-align:justify;
-    font-size: 12px;
-    font-weight: bolder;
+    font-size: 15px;
+    font-weight: revert-layer;
     color: #444444;
+    text-shadow: 0px 0px 0px rgba(39 36 36 / 75%),
+              0px 0px 0px rgba(0 255 231);
 }
-
-  
   
 .groupsm {
   padding: 0 0px;
