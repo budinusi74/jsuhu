@@ -123,7 +123,7 @@ function xpoa88() {window.open("https://howali.com/?ref=rakuyaba");}
 function xhoki138() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14569842");}
 function xmansion77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13085046");}
 function xtatabet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931");}
-function xsatutogel() {window.open("https://www.xn--satutogel-yv6ni36m.com/");}
+function xsatutogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931");}
 function xlotto01() {window.open("https://totoloto01.org/referral/BUNSIN");}
 function xdewatogel() {window.open("https://secure.livechatinc.com/licence/5501791/v2/open_chat.cgi");}
 function xsquad777() {window.open("https://pro.squad777-play.site/register?ref=bunsin");}
