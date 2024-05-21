@@ -20,7 +20,7 @@ function xbk8() {window.open("https://vue.livesupportbs.com/chatwindow.aspx?site
 function xflash303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13447317");}
 function xfijislot() {window.open("https://tawk.to/chat/650952a90f2b18434fd94e5d/1ham6lq2j");}
 function xmaxwin88() {window.open("https://maxwin88queen.monster/ref/?rid=rf10k5096ef");}
-function xskslot() {window.open("https://skselalu.com/register?ref=rakuyaba");}
+function xskslot() {window.open("https://sklahbray.com/register?ref=rakuyaba");}
 function xjackpot168() {window.open("https://secure.livechatinc.com/licence/14602758/v2/open_chat.cgi");}
 function xfungame777() {window.open("https://secure.livechatinc.com/licence/13061724/v2/open_chat.cgi");}
 function xluxury333() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16489149");}
