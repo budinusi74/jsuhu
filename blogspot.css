@@ -424,9 +424,11 @@ hr {
   
 .keterangan-font-size{
     padding:20px;
-    text-align:justify;
+    text-align:left;
+    letter-spacing:0px;
     font-size: 200%;
     font-weight: revert-layer;
+    font-family:Helvetica, serif;
     color: #444444;
     text-shadow: 0px 0px 0px rgba(39 36 36 / 75%),
               0px 0px 0px rgba(0 255 231);
