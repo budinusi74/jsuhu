@@ -10,13 +10,13 @@
   line-height: inherit;
   width: 21.8%;
   height: 70px;
-  background-color: #0000004d;
   border-radius: 25px;
   border-bottom:ridge;
   border-color:silver;
   font-weight: bold;
   color: black;
   cursor: pointer;
+  background:linear-gradient(to right,#818f8c 2%, #9dadad 88%, #8e9796 100%);
 }
 
 .tombol:hover {
@@ -455,29 +455,30 @@ hr {
               0px 0px 5px rgba(2 2 2 / 75%);
 }  
  .groupssemua {
-  background-color:#5f7475;
+  background:linear-gradient(to right,#787976 2%, #9dadad 88%, #8e9796 100%);
 } 
  .groupsaman {
-  background-color:#507f5c;
+  background:linear-gradient(to right, #317542 2%, #45b260 88%, #30c054 100%);
 } 
 .groupsaman:hover {
-  background-color:#00ffc4;
+  background:linear-gradient(to right,#00ffc4 2%, #00ffc4 88%, #00ffc4 100%);
 }
 .groupswaspada {
-  background-color:#70751d;
+  background:linear-gradient(to right,#5b5f15 2%, #919729 88%, #a5af00 100%);
 } 
 .groupswaspada:hover {
-  background-color:#fff000;
+  background:linear-gradient(to right,#fff000 2%, #fff000 88%, #fff000 100%);
 }
 .groupsbahaya {
-  background-color:#6d1818fa;
+  background:linear-gradient(to right,#380b0bfa 2%, #6d1818fa 88%, #890000fa 100%);
 }
 .groupsbahaya:hover {
-  background-color:#ff0000;
+  background:linear-gradient(to right,#ff0000 2%, #ff0000 88%, #ff0000 100%);
 }  
 .groupsupdatelink {
-  background-color:#56629b;
+  background:linear-gradient(to right,#1e4252 2%, #0a4c48 88%, #005872 100%);
 } 
+ 
   
 .responsiveaman, .responsivewaspada, .responsivebahaya {
   border-radius:25px;
@@ -497,22 +498,22 @@ hr {
   }
 }
 .responsiveaman {
-  background-color:#507f5c;
+  background:linear-gradient(to right, #317542 2%, #45b260 88%, #30c054 100%);
 }
 .responsiveaman:hover {
-  background-color:#00ffc4;
+  background:linear-gradient(to right,#00ffc4 2%, #00ffc4 88%, #00ffc4 100%);
 }
 .responsivewaspada {
-  background-color:#70751d;
+  background:linear-gradient(to right,#5b5f15 2%, #919729 88%, #a5af00 100%);
 }
 .responsivewaspada:hover {
-  background-color:#fff000;
+  background:linear-gradient(to right,#ccc113 2%, #e4d704 88%, #fff000 100%);
 }
 .responsivebahaya {
-  background-color:#6d1818fa;
+  background:linear-gradient(to right,#440000fa 2%, #6c0000fa 88%, #890000fa 100%);
 }
 .responsivebahaya:hover {
-  background-color:#ff0000;
+  background:linear-gradient(to right,#ff0000 2%, #ff0000 88%, #ff0000 100%);
 }
 
 .clearfix:after {
