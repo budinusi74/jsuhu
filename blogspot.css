@@ -249,22 +249,22 @@ font-size: 0.5rem;
               0px 0px 5px rgba(2 2 2 / 75%);
 }
 .tutup {
-  background-color: #767c7d;
+  background:linear-gradient(to right,#787976 2%, #9dadad 88%, #8e9796 100%);
 }
 .tutup:hover {
-  background-color:#fff;
+  background:linear-gradient(to right,#fff 2%, #fff 88%, #fff 100%);
 }
 .tawk {
-  background-color: #03a84e;
+  background:linear-gradient(to right, #317542 2%, #45b260 88%, #30c054 100%);
 }
 .tawk:hover {
-  background-color:#00ff72;
+  background:linear-gradient(to right, #00ff72 2%, #00ff72 88%, #00ff72 100%);
 }
 .fb {
-  background-color: #3300fd;
+  background:linear-gradient(to right, #21097f 2%, #3611c7 88%, #3300fd 100%);
 }
 .fb:hover {
-  background-color:#0866ff;
+  background:linear-gradient(to right, #0866ff 2%, #0866ff 88%, #0866ff 100%);
 }
 
 .warnatextchat {
@@ -303,18 +303,18 @@ font-size: 0.5rem;
 
 /* Add a color to the cancel button */
 .cancelbtn1 {
-  background-color: #507f5c;
+  background:linear-gradient(to right,#2b4732 2%, #507f5c 88%, #507f5c 100%);
 }
 .cancelbtn1:hover {
-  background-color:#00ffc4;
+  background:linear-gradient(to right,#00ffc4 2%, #00ffc4 88%, #00ffc4 100%);
 }
 
 /* Add a color to the delete button */
 .deletebtn1 {
-  background-color: #6d1818fa;
+  background:linear-gradient(to right,#380b0bfa 2%, #6d1818fa 88%, #890000fa 100%);
 }
 .deletebtn1:hover {
-  background-color:#ff0000;
+  background:linear-gradient(to right,#ff0000 2%, #ff0000 88%, #ff0000 100%);
 }
 
 .ttpupdatelink {
@@ -324,15 +324,14 @@ font-size: 0.5rem;
   float: left;
   height:50px;
   width: 100%;
-  background-color: #43df87;
   color: white;
   border-bottom:ridge;
-  text-overflow: ellipsis;
   text-shadow: 2px 1px 0px rgba(39 36 36 / 75%),
               0px 0px 5px rgba(2 2 2 / 75%);
+background:linear-gradient(to right, #317542 2%, #45b260 88%, #30c054 100%);
 }
 .ttpupdatelink:hover {
-  background-color:#00ffd4;
+background:linear-gradient(to right, #00ffd4 2%, #00ffd4 88%, #00ffd4 100%);
 }
 
 /* Add padding and center-align text to the container */
