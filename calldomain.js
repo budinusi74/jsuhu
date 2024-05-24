@@ -149,7 +149,7 @@ function xsgpslot() {window.open("https://secure.livechatinc.com/customer/action
 function xmusangwin() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14942064");}
 function xroyal123() {window.open("https://www.royal123ck.com/register?ref=F88M1AN0ZJ2");}
 function xn77toto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14514438");}
-function xmpocasino() {window.open("https://mpocasino-situs-gacor.com/register/Y85226NG");}
+function xmpocasino() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12664359");}
 function xnagatop() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9368830");}
 function xaquaslot() {window.open("https://aquaslot6.com/?ref=bunsin");}
 function xome88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13165080");}
