@@ -88,7 +88,7 @@ function xagenslot168() {window.open("https://ags168pro.xyz/register/Y7G7GR7B");
 function xamanah77() {window.open("https://secure.livechatenterprise.com/customer/action/open_chat?license_id=15646827");}
 function xligahoki89() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15127422");}
 function xrajampo() {window.open("https://tawk.to/chat/65a8cd260ff6374032c1a266/1hkdm2on4");}
-function xpusaka787() {window.open("https://787pusakajaya.site/register?ref=RAKUYABA");}
+function xpusaka787() {window.open("http://787pusakajaya.site/register?ref=RAKUYABA");}
 function xibutogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17138790");}
 function xsupertogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12759861");}
 function xamavi88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16955109");}
