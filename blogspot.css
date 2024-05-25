@@ -1,3 +1,10 @@
+.favicon {
+position:absolute;
+top:-10%;
+height:auto;
+width:auto;
+}
+
 .menu1{width: 100%;text-align: center;}
 
 .tombol {
