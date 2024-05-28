@@ -94,7 +94,7 @@ function xibutogel() {window.open("https://secure.livechatinc.com/customer/actio
 function xsupertogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12759861");}
 function xamavi88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16955109");}
 function xbaron4d() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13878036");}
-function xnewliga365() {window.open("https://hokispin365.com/?action=register&rc=N8SY7QO738&ci=11");}
+function xnewliga365() {window.open("https://newliga365r.co/?action=register&rc=N8SY7QO738&ci=11");}
 function xslotoppo88() {window.open("https://stoppo88.boats/?ref=rakuyaba");}
 function xjadijp() {window.open("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
 function xwisdom77() {window.open("https://wisdom77top.mom/?ref=rakuyaba");}
