@@ -56,7 +56,7 @@ function xgemoy02() {window.open("https://xn--lgbbb3as3g0a0aq.site/register?ref=
 function xareabola() {window.open("http://146.190.101.102/");}
 function xcvtogel() {window.open("https://cvtogel77.com/link.php?member=rakuyaba");}
 function xole777() {window.open("https://mobi.gol8553.com/#/register?referral=nn97j3Yw");}
-function xaw8() {window.open("https://15.235.136.142:1433/id-id/register?refid=vpwavmyw");}
+function xaw8() {window.open("https://www.aw8top1.com/id-id/register?refid=vpwavmyw");}
 function xdafabet() {window.open("https://www.cs-livechat.com/ccaas/v2/en/mc-desktop?brand=Dafa&height=760&width=360&title=avayaChatWindow&product=Dafabet");}
 function xm88() {window.open("https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fm88indoasia%2F");}
 function xalexabet88() {window.open("https://alexabet88a.net/register?ref=4284846");}
