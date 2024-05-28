@@ -155,7 +155,7 @@ function xnagatop() {window.open("https://secure.livechatinc.com/customer/action
 function xaquaslot() {window.open("https://aquaslot10.com/?ref=bunsin");}
 function xome88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13165080");}
 function xmega38() {window.open("https://tawk.to/chat/64bad53bcc26a871b02a3c54/1h5st1sco");}
-function xmpo369() {window.open("https://mpo369ac.com/register/W7N46140");}
+function xmpo369() {window.open("https://mpo369berkah.com/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
 function xchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
