@@ -80,7 +80,7 @@ function x66kone() {window.open("https://t.me/W66KONE");}
 function xmpo333() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14870319");}
 function xjitu77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14666055");}
 function xeraplay88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15206181");}
-function xmpo222() {window.open("https://3xdua.com/register/WNR6893G");}
+function xmpo222() {window.open("https://mpo222nusantara.com/register/WNR6893G");}
 function xmpo111() {window.open("https://tawk.to/chat/60109ad0a9a34e36b970b0b0/1et0dpg0c?");}
 function xmpo999() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11552598");}
 function xmpo777() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12494673");}
