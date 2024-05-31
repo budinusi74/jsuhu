@@ -39,7 +39,7 @@ function xpintutogel() {window.open("https://pintutogelhk.org/register?referral_
 function xantiktoto() {window.open("https://totoantik.com/link.php?member=rakuyaba");}
 function xcahaya268() {window.open("https://klikjp1m.site/register?ref=3SKALAC01FJ");}
 function xkijangwin() {window.open("https://kijangwinplay.pro/daftar?ref=rakuyaba");}
-function xaurajp() {window.open("https://aurajpmantap.vatozagency.com/?ref=rakuyaba");}
+function xaurajp() {window.open("https://aurajpgaskan.vatozagency.com/?ref=rakuyaba");}
 function xspesial303() {window.open("https://malamminggu.site/register?ref=rakuyaba");}
 function xxuxu4d() {window.open("https://xuxu4dtop.shop/?ref=rakuyaba");}
 function xrahayu88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15103890");}
