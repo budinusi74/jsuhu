@@ -16,7 +16,7 @@ function xapi77() {window.open("https://api77g.fun/account/register/158909985");
 function xcor77() {window.open("https://cor77b.com/register?ref=8GGAEAC1CUR");}
 function xvit88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13539783");}
 function xadipatislot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13174164");}
-function xlotuspelangi() {window.open("https://pelangihidup.com/daftar?ref=rakuyaba");}
+function xlotuspelangi() {window.open("https://pelangihidup.online/daftar?ref=rakuyaba");}
 function xbk8() {window.open("https://vue.livesupportbs.com/chatwindow.aspx?siteId=5000379&chatGroup=1&planId=08040000-0000-0000-0000-008e004c4cbb#");}
 function xflash303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13447317");}
 function xfijislot() {window.open("https://tawk.to/chat/650952a90f2b18434fd94e5d/1ham6lq2j");}
