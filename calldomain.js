@@ -70,7 +70,7 @@ function xzona66() {window.open("https://app.chaport.com/widget/show.html?appid=
 function xmpo666() {window.open("https://mpo666nj.com/register/WM41P433");}
 function xmpo555() {window.open("https://mpo555-secure.xyz/register/WR3N6NQ9");}
 function xkadobet() {window.open("https://kadobetvip.com/?ref=rakuyaba");}
-function xsweet777() {window.open("https://sweet77.skin/register?ref=GS2AEAB0SVJ");}
+function xsweet777() {window.open("https://www.sweet77.pics/register?ref=GS2AEAB0SVJ");}
 function xhokiwin() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13036704");}
 function xkas138() {window.open("https://kas138vip.com/?ref=rakuyaba");}
 function xjudi388() {window.open("https://jdmerah.top/register?reff=rakuyaba");}
