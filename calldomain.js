@@ -98,7 +98,7 @@ function xbaron4d() {window.open("https://secure.livechatinc.com/customer/action
 function xnewliga365() {window.open("https://newliga365r.co/?action=register&rc=N8SY7QO738&ci=11");}
 function xslotoppo88() {window.open("https://stoppo88.cfd/?ref=rakuyaba");}
 function xjadijp() {window.open("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
-function xwisdom77() {window.open("https://wisdom77on.mom/?ref=rakuyaba");}
+function xwisdom77() {window.open("https://wisdom77vip.mom/?ref=rakuyaba");}
 function xlembagatoto() {window.open("https://lembagatoto23.com/link.php?member=rakuyaba");}
 function xw77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14979834");}
 function xunoplay() {window.open("https://uno1playbest.xyz/register/?ref=E48A47B5");}
