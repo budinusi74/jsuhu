@@ -1,5 +1,5 @@
 function xno() {window.open("https://nosafetyy.blogspot.com/");}
-function xratu89() {window.open("https://topsitus89.online/register?ref=aOog12X");}
+function xratu89() {window.open("https://awal89.site/register?ref=aOog12X");}
 function xarobet88() {window.open("https://arobet88.com/?ref=rakuyaba");}
 function xhedon77() {window.open("https://hedon77c.ink/daftar?ref_id=5f6e2101");}
 function xsinarmas77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17793120");}
