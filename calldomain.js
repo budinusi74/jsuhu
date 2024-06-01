@@ -136,7 +136,7 @@ function xshiokambing() {window.open("https://adarezeki.com/register?ref=rakuyab
 function xhoki177() {window.open("https://jituhoki177.com/register?ref=rakuyaba");}
 function xgacor88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12875568");}
 function xdemen303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11194722");}
-function xgacorslot() {window.open("https://gacorslots.cc/register/WQ8K3KMR");}
+function xgacorslot() {window.open("https://gacorslotku.cc/register/WQ8K3KMR");}
 function xbom29toto() {window.open("https://b29profit.com/link.php?member=rakuyaba");}
 function xairbet88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=10715182");}
 function xgaulbet77() {window.open("https://www.okaygasgaulbet77.site/register/YPLRNNDQ");}
