@@ -133,7 +133,7 @@ function xmpo888() {window.open("https://secure.livechatenterprise.com/licence/1
 function x8togel() {window.open("https://8togel.com/referral/GACOR777");}
 function xscbet88() {window.open("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
 function xshiokambing() {window.open("https://adarezeki.com/register?ref=rakuyaba");}
-function xhoki177() {window.open("https://jituhoki177.com/register?ref=rakuyaba");}
+function xhoki177() {window.open("https://pastihoki177.com/register?ref=rakuyaba");}
 function xgacor88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12875568");}
 function xdemen303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11194722");}
 function xgacorslot() {window.open("https://gacorslotku.cc/register/WQ8K3KMR");}
