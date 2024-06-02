@@ -3,7 +3,7 @@ function xratu89() {window.open("https://awal89.site/register?ref=aOog12X");}
 function xarobet88() {window.open("https://arobet88.com/?ref=rakuyaba");}
 function xhedon77() {window.open("https://hedon77c.ink/daftar?ref_id=5f6e2101");}
 function xsinarmas77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17793120");}
-function xeqn77() {window.open("https://eqn777.xyz/register/EVCWMKG6");}
+function xeqn777() {window.open("https://eqn777.xyz/register/EVCWMKG6");}
 function xindoslot88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12611073");}
 function xlanjut88() {window.open("https://lanjut88mantap.site/?ref=rakuyaba");}
 function xjetplay88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15545244");}
