@@ -44,8 +44,8 @@ function xaurajp() {window.open("https://aurajpgaskan.vatozagency.com/?ref=rakuy
 function xspesial303() {window.open("https://malamminggu.site/register?ref=rakuyaba");}
 function xxuxu4d() {window.open("https://xuxu4dbest.com/?ref=rakuyaba");}
 function xrahayu88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15103890");}
-function xboss177() {window.open("https://pastiboss.com/register?ref=rakuyaba");}
-function xneko9() {window.open("https://juraganeko.com/register?ref=rakuyaba");}
+function xboss177() {window.open("https://tawk.to/chat/658aa00d07843602b80594c3/1hiio2eb7/");}
+function xneko9() {window.open("https://tawk.to/chat/6553951f958be55aeaaf9610/1hf77t1mt");}
 function xshiokambing5() {window.open("https://mainajashiokambing.com/register?ref=rakuyaba");}
 function xplaza4d() {window.open("https://palingtinggi66.com/register?ref=rakuyaba");}
 function xshiokambing2() {window.open("https://untungdisini.com/register?ref=rakuyaba");}
