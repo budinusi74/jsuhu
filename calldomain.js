@@ -85,7 +85,7 @@ function xmpo222() {window.open("https://mpo222nusantara.com/register/WNR6893G")
 function xmpo111() {window.open("https://tawk.to/chat/60109ad0a9a34e36b970b0b0/1et0dpg0c?");}
 function xmpo999() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11552598");}
 function xmpo777() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12494673");}
-function xcoblos4d() {window.open("https://cobloskan4d.lat/?ref=rakuyaba");}
+function xcoblos4d() {window.open("https://coblosgaul4d.lat/?ref=rakuyaba");}
 function xagenslot168() {window.open("https://ags168pro.store/register/Y7G7GR7B");}
 function xamanah77() {window.open("https://secure.livechatenterprise.com/customer/action/open_chat?license_id=15646827");}
 function xligahoki89() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15127422");}
