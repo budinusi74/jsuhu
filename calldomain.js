@@ -13,7 +13,7 @@ function xnexus77() {window.open("https://noblockss.blogspot.com/");}
 function xnusabet() {window.open("https://nusasite.fun/register?ref=4406747");}
 function xtkp303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14657013");}
 function x303hoki() {window.open("https://303hokiklik.com/register/Y66KPQ1K");}
-function xapi77() {window.open("https://api77i.fun/account/register/158909985");}
+function xapi77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17076201");}
 function xcor77() {window.open("https://cor77b.com/register?ref=8GGAEAC1CUR");}
 function xvit88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13539783");}
 function xadipatislot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13174164");}
