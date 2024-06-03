@@ -140,7 +140,7 @@ function xgacorslot() {window.open("https://gacorslotku.cc/register/WQ8K3KMR");}
 function xbom29toto() {window.open("https://bom29toto.co.in/link.php?member=rakuyaba");}
 function xairbet88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=10715182");}
 function xgaulbet77() {window.open("https://www.okaygasgaulbet77.site/register/YPLRNNDQ");}
-function xcabe777() {window.open("https://cabe777.xyz/register/W9LK0R2P");}
+function xcabe777() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9571715");}
 function xharbet35() {window.open("https://harbet35cuan.site/?ref=rakuyaba");}
 function xpreman69() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16706139");}
 function xtokekwin() {window.open("https://home-tokekwin.click/daftar?ref=rakuyaba");}
