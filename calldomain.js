@@ -131,7 +131,7 @@ function xdewatogel() {window.open("https://secure.livechatinc.com/licence/55017
 function xsquad777() {window.open("https://pro.squad777-play.site/register?ref=bunsin");}
 function xmpo888() {window.open("https://secure.livechatenterprise.com/licence/14751111/v2/open_chat.cgi?groups=0");}
 function x8togel() {window.open("https://8togel.com/referral/GACOR777");}
-function xscbet88() {window.open("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
+function xscbet88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=10515642");}
 function xshiokambing() {window.open("https://adarezeki.com/register?ref=rakuyaba");}
 function xhoki177() {window.open("https://pastihoki177.com/register?ref=rakuyaba");}
 function xgacor88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12875568");}
