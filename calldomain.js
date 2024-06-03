@@ -117,7 +117,7 @@ function xkudapoker() {window.open("https://secure.livechatinc.com/customer/acti
 function xvipbet88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=2964462");}
 function xpesiar88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14856804");}
 function xpokerbo() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=3658611");}
-function xsinggah4d() {window.open("https://singgah4d-gacor.com/?ref=rakuyaba");}
+function xsinggah4d() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15567714");}
 function xgacorbos88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15550494");}
 function xjawara88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14306658");}
 function xyakinslot88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15868308");}
