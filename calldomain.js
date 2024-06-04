@@ -104,7 +104,7 @@ function xw77() {window.open("https://secure.livechatinc.com/customer/action/ope
 function xunoplay() {window.open("https://uno1playbest.xyz/register/?ref=E48A47B5");}
 function xjoki55() {window.open("https://www.joki55page.lol/register?ref=COXGNBO1IS3");}
 function xauto177() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14811819);}
-function x8bettingan() {window.open("https://bettingans.website/register?ref=QZPZPBE00O4");}
+function x8bettingan() {window.open("https://bettingans.click/register?ref=QZPZPBE00O4");}
 function xmegabandar() {window.open("https://secure.livechatenterprise.com/licence/10515362/v2/open_chat.cgi?groups=0");}
 function xtwinbet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17460783");}
 function xdewasloto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13875732");}
