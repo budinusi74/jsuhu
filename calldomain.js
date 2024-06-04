@@ -160,7 +160,7 @@ function xmpo369() {window.open("https://mpo369berkah.com/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
 function xchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
-function xbetcoinasia() {window.open("https://btcasia.club/?ref=bunsin");}
+function xbetcoinasia() {window.open("https://bet-coin.asia/?ref=bunsin");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
 function xpphoki() {window.open("https://pphoki27.com/?ref=rakuyaba");}
