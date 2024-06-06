@@ -55,7 +55,7 @@ function xjet88bet() {window.open("https://jetstargo2.shop/?ref=rakuyaba");}
 function xbagus88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15300816");}
 function xgemoy02() {window.open("https://xn--lgbbb3as3g0a0aq.site/register?ref=ONEAAAH00P8");}
 function xareabola() {window.open("http://146.190.101.102/");}
-function xcvtogel() {window.open("https://cvtogel100.org/link.php?member=rakuyaba");}
+function xcvtogel() {window.open("https://cvtogelmax.org/link.php?member=rakuyaba");}
 function xole777() {window.open("https://mobi.gol8553.com/#/register?referral=nn97j3Yw");}
 function xaw8() {window.open("https://15.235.136.142:1433/id-id/register?refid=vpwavmyw");}
 function xdafabet() {window.open("https://www.cs-livechat.com/ccaas/v2/en/mc-desktop?brand=Dafa&height=760&width=360&title=avayaChatWindow&product=Dafabet");}
@@ -98,7 +98,7 @@ function xbaron4d() {window.open("https://secure.livechatinc.com/customer/action
 function xnewliga365() {window.open("https://hokispin365.com/?action=register&rc=N8SY7QO738&ci=11");}
 function xslotoppo88() {window.open("https://sltoppo88.org/?ref=rakuyaba");}
 function xjadijp() {window.open("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
-function xwisdom77() {window.open("https://wisdom77ho.mom/?ref=rakuyaba");}
+function xwisdom77() {window.open("https://wisdom77win.mom/?ref=rakuyaba");}
 function xlembagatoto() {window.open("https://lembagatoto23.com/link.php?member=rakuyaba");}
 function xw77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14979834");}
 function xunoplay() {window.open("https://www.unoplay1gacor.net/register/?ref=E48A47B5");}
