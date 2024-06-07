@@ -5,7 +5,7 @@ for (let i = 0; i < bgbahaya.length; i++) {
 
 const bgwaspada = document.getElementsByClassName("bgwaspada");
 for (let i = 0; i < bgwaspada.length; i++) {
-  bgwaspada[i].innerHTML = "<h1 class='keterangan-font-size'>Situs ini belum di coba oleh admin kami apabila anda ingin mencoba bermain di situs ini anda <span class='color-red'>PERLU WASPADA</span> karena bisa saja situs ini tidak aman dan sementara untuk link alternatif tanpa vpn situs ini tidak akan di update oleh kami namun anda tetap bisa berkomunikasi dengan admin situs tersebut dengan menekan tombol <span class='color-red'>TETAP MASUK</span><br/><br/>kami merekomendasikan situs yang kami beri tanda <span class='color-green'>berwarna HIJAU yang berarti AMAN</span> dan sudah di uji coba admin kami</h1>";
+  bgwaspada[i].innerHTML = "<h1 class='keterangan-font-size'>Semua situs yang kami berikan tanda berwarna <span class='color-yellow'>kuning</span> artinya kami ragu menilai situs tersebut biasanya karena 2 faktor mengapa kami ragu <br/>1. karena belum kami coba<br/>2. situs tersebut pernah merubah peraturan secara mendadak<br/>sebab itu kami ragu apakah situs ini aman atau berbahaya kedepannya apabila anda ingin mencoba bermain di situs ini anda <span class='color-red'>PERLU WASPADA</span> karena bisa saja situs ini tidak aman dan sementara untuk link alternatif tanpa vpn situs ini tidak akan di update oleh kami namun anda tetap bisa berkomunikasi dengan admin situs tersebut dengan menekan tombol <span class='color-red'>TETAP MASUK</span><br/><br/>kami merekomendasikan situs yang kami beri tanda <span class='color-green'>berwarna HIJAU yang berarti AMAN</span> dan sudah di uji coba admin kami</h1>";
 }
 
 const bgdomain = document.getElementsByClassName("bgdomain");
