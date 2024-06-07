@@ -160,7 +160,7 @@ function xmpo369() {window.open("https://mpo369ac.com/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
 function xchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
-function xbetcoinasia() {window.open("https://prediksieuro2024.me/?ref=bunsin");}
+function xbetcoinasia() {window.open("https://btcslots.me/?ref=bunsin");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
 function xpphoki() {window.open("https://pphoki.run/?ref=rakuyaba");}
