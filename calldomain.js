@@ -163,5 +163,5 @@ function xchatfb() {window.open("https://www.facebook.com/profile.php?id=6155349
 function xbetcoinasia() {window.open("https://prediksieuro2024.me/?ref=bunsin");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
-function xpphoki() {window.open("https://pphoki-19.com/?ref=rakuyaba");}
+function xpphoki() {window.open("https://pphoki.run/?ref=rakuyaba");}
 function xupdate() {window.open("http://judisuhu.online/");}
