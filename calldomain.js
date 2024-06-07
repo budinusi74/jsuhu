@@ -10,7 +10,7 @@ function xjetplay88() {window.open("https://secure.livechatinc.com/customer/acti
 function xkoin313() {window.open("https://www.kointop313.xyz/register?ref=8tzjPAm");}
 function xindoagen188() {window.open("https://indagen188.bond/register/W518KB66");}
 function xnexus77() {window.open("https://noblockss.blogspot.com/");}
-function xnusabet() {window.open("https://nusasite.fun/register?ref=4406747");}
+function xnusabet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=7982011");}
 function xtkp303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14657013");}
 function x303hoki() {window.open("https://303hokiklik.com/register/Y66KPQ1K");}
 function xapi77() {window.open("https://casnonline.com/account/register/158909985");}
