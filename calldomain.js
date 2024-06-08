@@ -29,7 +29,7 @@ function xluxury333() {window.open("https://secure.livechatinc.com/customer/acti
 function xibosport() {window.open("https://v2ibocuan.store/");}
 function xslotmacau188() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14635155");}
 function xpiontogel() {window.open("https://piongas.com/link.php?member=rakuyaba");}
-function xtektok77() {window.open("https://spiqy.com/register?ref=cvdwOsa");}
+function xtektok77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16014690");}
 function xdauntogel() {window.open("https://daunwangi.com/link.php?member=rakuyaba");}
 function xindogenting() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931");}
 function xkenzo188() {window.open("https://wahana-kenzo.click/register?ref=A3MMMAF4PO7");}
