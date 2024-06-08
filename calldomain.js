@@ -76,7 +76,7 @@ function xhokiwin() {window.open("https://secure.livechatinc.com/customer/action
 function xkas138() {window.open("https://kas138vip.com/?ref=rakuyaba");}
 function xjudi388() {window.open("https://jdapa.top/register?reff=rakuyaba");}
 function xkudetabet98() {window.open("https://tawk.to/chat/6277a9737b967b11798e4e3c/1g2hmrr04");}
-function xmega55() {window.open("https://www.mega55.co/register?ref=ZGGIGAB00JK");}
+function xmega55() {window.open("https://www.mega55.info/register?ref=ZGGIGAB00JK");}
 function x66kone() {window.open("https://t.me/W66KONE");}
 function xmpo333() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14870319");}
 function xjitu77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14666055");}
