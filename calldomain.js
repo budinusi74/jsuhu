@@ -89,7 +89,7 @@ function xmpo111() {window.open("https://tawk.to/chat/60109ad0a9a34e36b970b0b0/1
 function xmpo999() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11552598");}
 function xmpo777() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12494673");}
 function xcoblos4d() {window.open("https://coblosonline4d.xyz/?ref=rakuyaba");}
-function xagenslot168() {window.open("https://agslot168.lol/register/Y7G7GR7B");}
+function xagenslot168() {window.open("https://www.mtfujidenver.com/register/Y7G7GR7B");}
 function xamanah77() {window.open("https://secure.livechatenterprise.com/customer/action/open_chat?license_id=15646827");}
 function xligahoki89() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15127422");}
 function xrajampo() {window.open("https://tawk.to/chat/65a8cd260ff6374032c1a266/1hkdm2on4");}
