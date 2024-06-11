@@ -99,7 +99,7 @@ function xsupertogel() {window.open("https://secure.livechatinc.com/customer/act
 function xamavi88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16955109");}
 function xbaron4d() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13878036");}
 function xnewliga365() {window.open("https://hokispin365.com/?action=register&rc=N8SY7QO738&ci=11");}
-function xslotoppo88() {window.open("https://slotoppo.autos/?ref=rakuyaba");}
+function xslotoppo88() {window.open("https://slotoppo.click/?ref=rakuyaba");}
 function xjadijp() {window.open("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
 function xwisdom77() {window.open("https://wisdom77jos.mom/?ref=rakuyaba");}
 function xlembagatoto() {window.open("https://lembagatoto23.com/link.php?member=rakuyaba");}
