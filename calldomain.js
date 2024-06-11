@@ -131,7 +131,7 @@ function xtatabet() {window.open("https://secure.livechatinc.com/customer/action
 function xsatutogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931");}
 function xlotto01() {window.open("https://playnice.space/referral/BUNSIN");}
 function xdewatogel() {window.open("https://secure.livechatinc.com/licence/5501791/v2/open_chat.cgi");}
-function xsquad777() {window.open("https://pro.squad777-play.site/register?ref=bunsin");}
+function xsquad777() {window.open("https://squad777.monster/register?ref=bunsin");}
 function xmpo888() {window.open("https://secure.livechatenterprise.com/licence/14751111/v2/open_chat.cgi?groups=0");}
 function x8togel() {window.open("https://8togel.com/referral/GACOR777");}
 function xscbet88() {window.open("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
