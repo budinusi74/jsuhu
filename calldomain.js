@@ -89,7 +89,7 @@ function xmpo111() {window.open("https://tawk.to/chat/60109ad0a9a34e36b970b0b0/1
 function xmpo999() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=11552598");}
 function xmpo777() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12494673");}
 function xcoblos4d() {window.open("https://coblosonline4d.xyz/?ref=rakuyaba");}
-function xagenslot168() {window.open("https://agslot168.online/register/Y7G7GR7B");}
+function xagenslot168() {window.open("https://agslot168.pro/register/Y7G7GR7B");}
 function xamanah77() {window.open("https://secure.livechatenterprise.com/customer/action/open_chat?license_id=15646827");}
 function xligahoki89() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15127422");}
 function xrajampo() {window.open("https://tawk.to/chat/65a8cd260ff6374032c1a266/1hkdm2on4");}
@@ -107,7 +107,7 @@ function xw77() {window.open("https://secure.livechatinc.com/customer/action/ope
 function xunoplay() {window.open("https://www.unoplay1gacor.net/register/?ref=E48A47B5");}
 function xjoki55() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17553657");}
 function xauto177() {window.open("https://ciauto177.ink/?ref=rakuyaba");}
-function x8bettingan() {window.open("https://bettingans.website/register?ref=QZPZPBE00O4");}
+function x8bettingan() {window.open("https://bettingan3.com/register?ref=QZPZPBE00O4");}
 function xmegabandar() {window.open("https://secure.livechatenterprise.com/licence/10515362/v2/open_chat.cgi?groups=0");}
 function xtwinbet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17460783");}
 function xdewasloto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13875732");}
@@ -166,5 +166,5 @@ function xchatfb() {window.open("https://www.facebook.com/profile.php?id=6155349
 function xbetcoinasia() {window.open("https://jadwalligabetcoin.com/?ref=bunsin");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
-function xpphoki() {window.open("https://pphoki.uk/?ref=rakuyaba");}
+function xpphoki() {window.open("https://pphoki66.cfd/?ref=rakuyaba");}
 function xupdate() {window.open("http://judisuhu.online/");}
