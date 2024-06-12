@@ -4,7 +4,7 @@ function xkaikoslot() {window.open("https://logintgl9.xyz/register?ref=q1ZpFde")
 function xrusia777() {window.open("https://maintgl7.site/register?ref=gAFtWvW");}
 function xratu89() {window.open("https://cikululuk89.site/register?ref=aOog12X");}
 function xarobet88() {window.open("https://arobet88.com/?ref=rakuyaba");}
-function xhedon77() {window.open("https://hedon77ok.wiki/daftar?ref_id=5f6e2101");}
+function xhedon77() {window.open("https://hedon77ok.one/daftar?ref_id=5f6e2101");}
 function xsinarmas77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17793120");}
 function xeqn77() {window.open("https://eqn777.xyz/register/EVCWMKG6");}
 function xindoslot88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12611073");}
