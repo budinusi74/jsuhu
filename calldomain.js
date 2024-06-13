@@ -1,10 +1,10 @@
 function xno() {window.open("https://nosafetyy.blogspot.com/");}
 function xserbacasino() {window.open("https://serbaitu.org/register.jsp?ref=HUZQHFUJIpQYDFV=");}
-function xkaikoslot() {window.open("https://logintgl9.xyz/register?ref=q1ZpFde");}
+function xkaikoslot() {window.open("https://01kaiko.fun/register?ref=q1ZpFde");}
 function xrusia777() {window.open("https://maintgl7.site/register?ref=gAFtWvW");}
 function xratu89() {window.open("https://cikululuk89.site/register?ref=aOog12X");}
 function xarobet88() {window.open("https://arobet88.com/?ref=rakuyaba");}
-function xhedon77() {window.open("https://hedon77ok.one/daftar?ref_id=5f6e2101");}
+function xhedon77() {window.open("https://hedon77ok.xyz/daftar?ref_id=5f6e2101");}
 function xsinarmas77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17793120");}
 function xeqn77() {window.open("https://eqn777.xyz/register/EVCWMKG6");}
 function xindoslot88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12611073");}
@@ -58,7 +58,7 @@ function xjet88bet() {window.open("https://jetstargo2.shop/?ref=rakuyaba");}
 function xbagus88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15300816");}
 function xgemoy02() {window.open("https://xn--lgbbb3as3g0a0aq.site/register?ref=ONEAAAH00P8");}
 function xareabola() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=6747761");}
-function xcvtogel() {window.open("https://cvtogelmax.org/link.php?member=rakuyaba");}
+function xcvtogel() {window.open("https://cvtogelblue.com/link.php?member=rakuyaba");}
 function xole777() {window.open("https://mobi.gol8553.com/#/register?referral=nn97j3Yw");}
 function xaw8() {window.open("https://15.235.136.142:1433/id-id/register?refid=vpwavmyw");}
 function xdafabet() {window.open("https://www.cs-livechat.com/ccaas/v2/en/mc-desktop?brand=Dafa&height=760&width=360&title=avayaChatWindow&product=Dafabet");}
@@ -72,7 +72,7 @@ function xdewa234() {window.open("https://dewa234akui.com/register/W42BG936");}
 function xrajatoto3() {window.open("https://rajatoto3husky.com/register?ref=WnDsxSx8");}
 function xzona66() {window.open("https://app.chaport.com/widget/show.html?appid=662499fd96a23d6d64360a18&cid=c9be17ba-5df4-4675-b2da-b5d4b01c117b&ctoken=tjhqanQzGdz1sIddDDH01h7NtP7ynKV9yw4lj&r=0.6598621208396493&ou=https%3A%2F%2Flareuniontx.org");}
 function xmpo666() {window.open("https://mpo666at.com/register/WM41P433");}
-function xmpo555() {window.open("https://belhamel-catering.com/register/WR3N6NQ9");}
+function xmpo555() {window.open("https://mpo555-group.xyz/register/WR3N6NQ9");}
 function xkadobet() {window.open("https://kadobetvip.com/?ref=rakuyaba");}
 function xsweet777() {window.open("https://sweet77.skin/register?ref=GS2AEAB0SVJ");}
 function xhokiwin() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13036704");}
@@ -99,7 +99,7 @@ function xsupertogel() {window.open("https://secure.livechatinc.com/customer/act
 function xamavi88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16955109");}
 function xbaron4d() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13878036");}
 function xnewliga365() {window.open("https://hokispin365.com/?action=register&rc=N8SY7QO738&ci=11");}
-function xslotoppo88() {window.open("https://slotoppo.click/?ref=rakuyaba");}
+function xslotoppo88() {window.open("https://slotoppo.bond/?ref=rakuyaba");}
 function xjadijp() {window.open("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
 function xwisdom77() {window.open("https://wisdom77op.mom/?ref=rakuyaba");}
 function xlembagatoto() {window.open("https://lembagatoto23.com/link.php?member=rakuyaba");}
@@ -159,7 +159,7 @@ function xnagatop() {window.open("https://secure.livechatinc.com/customer/action
 function xaquaslot() {window.open("https://aquaslot11.com/?ref=bunsin");}
 function xome88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13165080");}
 function xmega38() {window.open("https://tawk.to/chat/64bad53bcc26a871b02a3c54/1h5st1sco");}
-function xmpo369() {window.open("https://mpo369ac.com/register/W7N46140");}
+function xmpo369() {window.open("https://mpo369royal.com/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
 function xchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
