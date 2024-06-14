@@ -79,7 +79,7 @@ function xhokiwin() {window.open("https://secure.livechatinc.com/customer/action
 function xkas138() {window.open("https://kas138vip.com/?ref=rakuyaba");}
 function xjudi388() {window.open("https://jdapa.top/register?reff=rakuyaba");}
 function xkudetabet98() {window.open("https://tawk.to/chat/6277a9737b967b11798e4e3c/1g2hmrr04");}
-function xmega55() {window.open("https://www.mega55.info/register?ref=ZGGIGAB00JK");}
+function xmega55() {window.open("https://www.mega55.org/register?ref=ZGGIGAB00JK");}
 function x66kone() {window.open("https://t.me/W66KONE");}
 function xmpo333() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14870319");}
 function xjitu77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14666055");}
@@ -131,7 +131,7 @@ function xtatabet() {window.open("https://secure.livechatinc.com/customer/action
 function xsatutogel() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931");}
 function xlotto01() {window.open("https://joinlink.space/referral/BUNSIN");}
 function xdewatogel() {window.open("https://secure.livechatinc.com/licence/5501791/v2/open_chat.cgi");}
-function xsquad777() {window.open("https://squad777.monster/register?ref=bunsin");}
+function xsquad777() {window.open("https://slotsquad777.sbs/register?ref=bunsin");}
 function xmpo888() {window.open("https://secure.livechatenterprise.com/licence/14751111/v2/open_chat.cgi?groups=0");}
 function x8togel() {window.open("https://8togel.com/referral/GACOR777");}
 function xscbet88() {window.open("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
@@ -163,7 +163,7 @@ function xmpo369() {window.open("https://mpo369royal.com/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
 function xchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
-function xbetcoinasia() {window.open("https://jadwalligabetcoin.com/?ref=bunsin");}
+function xbetcoinasia() {window.open("https://bet-coin.cc/?ref=bunsin");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
 function xpphoki() {window.open("https://pphoki66.cfd/?ref=rakuyaba");}
