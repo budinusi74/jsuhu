@@ -8,7 +8,7 @@ function xhedon77() {window.open("https://hedon77ok.xyz/daftar?ref_id=5f6e2101")
 function xsinarmas77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17793120");}
 function xeqn77() {window.open("https://eqn777.xyz/register/EVCWMKG6");}
 function xindoslot88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=12611073");}
-function xlanjut88() {window.open("https://lanjut88mantap.xyz/?ref=rakuyaba");}
+function xlanjut88() {window.open("https://lanjut88b.com/?ref=rakuyaba");}
 function xjetplay88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=15545244");}
 function xkoin313() {window.open("https://www.kointop313.xyz/register?ref=8tzjPAm");}
 function xindoagen188() {window.open("https://indagen188.bond/register/W518KB66");}
@@ -107,7 +107,7 @@ function xw77() {window.open("https://secure.livechatinc.com/customer/action/ope
 function xunoplay() {window.open("https://www.unoplay1gacor.net/register/?ref=E48A47B5");}
 function xjoki55() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17553657");}
 function xauto177() {window.open("https://ciauto177.ink/?ref=rakuyaba");}
-function x8bettingan() {window.open("https://bettingan3.com/register?ref=QZPZPBE00O4");}
+function x8bettingan() {window.open("https://bettingan3.wiki/register?ref=QZPZPBE00O4");}
 function xmegabandar() {window.open("https://secure.livechatenterprise.com/licence/10515362/v2/open_chat.cgi?groups=0");}
 function xtwinbet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17460783");}
 function xdewasloto() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13875732");}
@@ -163,7 +163,7 @@ function xmpo369() {window.open("https://mpo369royal.com/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
 function xchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
-function xbetcoinasia() {window.open("https://bet-coin.cc/?ref=bunsin");}
+function xbetcoinasia() {window.open("https://betcoinpowerapp.com/?ref=bunsin");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
 function xpphoki() {window.open("https://pphoki66.cfd/?ref=rakuyaba");}
