@@ -1,5 +1,5 @@
 function xno() {window.open("https://nosafetyy.blogspot.com/");}
-function xserbacasino() {window.open("https://serbaitu.org/register.jsp?ref=HUZQHFUJIpQYDFV=");}
+function xserbacasino() {window.open("https://serbaitu.com/register.jsp?ref=HUZQHFUJIpQYDFV=");}
 function xkaikoslot() {window.open("https://01kaiko.fun/register?ref=q1ZpFde");}
 function xrusia777() {window.open("https://maintgl7.site/register?ref=gAFtWvW");}
 function xratu89() {window.open("https://cikululuk89.site/register?ref=aOog12X");}
