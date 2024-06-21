@@ -103,7 +103,7 @@ function xbaron4d() {window.open("https://secure.livechatinc.com/customer/action
 function xnewliga365() {window.open("https://hokispin365.com/?action=register&rc=N8SY7QO738&ci=11");}
 function xslotoppo88() {window.open("https://slotoppo.bond/?ref=rakuyaba");}
 function xjadijp() {window.open("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
-function xwisdom77() {window.open("https://www.wisdom77cs.mom/?ref=rakuyaba");}
+function xwisdom77() {window.open("https://wisdom77api.mom/?ref=rakuyaba");}
 function xlembagatoto() {window.open("https://lembagatoto23.com/link.php?member=rakuyaba");}
 function xw77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14979834");}
 function xunoplay() {window.open("https://www.unoplay1gacor.net/register/?ref=E48A47B5");}
