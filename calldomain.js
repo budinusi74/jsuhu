@@ -150,7 +150,7 @@ function xharbet35() {window.open("https://harbet35cuan.site/?ref=rakuyaba");}
 function xpreman69() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16706139");}
 function xtokekwin() {window.open("https://tokekwinpro2.pro/daftar?ref=rakuyaba");}
 function xjnt77() {window.open("https://tawk.to/chat/65ac47da8d261e1b5f55f853/1hkkfhc8n");}
-function xdewakoin() {window.open("https://dewakoin-vip14.xyz/register?ref=PABAAAP0MH8");}
+function xdewakoin() {window.open("https://dewakoin-daftar.sbs/register?ref=PABAAAP0MH8");}
 function xdiva168() {window.open("https://diva168agen.com/register?referral=15542094924");}
 function xsgpslot() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14257701");}
 function xmusangwin() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14942064");}
