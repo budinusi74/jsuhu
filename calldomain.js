@@ -79,7 +79,7 @@ function xkadobet() {window.open("https://kadobetvip.com/?ref=rakuyaba");}
 function xsweet777() {window.open("https://sweet77.motorcycles/register?ref=GS2AEAB0SVJ");}
 function xhokiwin() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13036704");}
 function xkas138() {window.open("https://kas138vip.com/?ref=rakuyaba");}
-function xjudi388() {window.open("https://jdapa.top/register?reff=rakuyaba");}
+function xjudi388() {window.open("https://jdmerah.top/register?reff=rakuyaba");}
 function xkudetabet98() {window.open("https://tawk.to/chat/6277a9737b967b11798e4e3c/1g2hmrr04");}
 function xmega55() {window.open("https://www.mega55.org/register?ref=ZGGIGAB00JK");}
 function x66kone() {window.open("https://t.me/W66KONE");}
