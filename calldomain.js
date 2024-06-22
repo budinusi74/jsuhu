@@ -17,7 +17,7 @@ function xindoagen188() {window.open("https://indagen188.bond/register/W518KB66"
 function xnexus77() {window.open("https://noblockss.blogspot.com/");}
 function xnusabet() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=7982011");}
 function xtkp303() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=14657013");}
-function x303hoki() {window.open("https://303hokiklik.com/register/Y66KPQ1K");}
+function x303hoki() {window.open("https://303hkcepat.com/register/Y66KPQ1K");}
 function xapi77() {window.open("https://casnonline.com/account/register/158909985");}
 function xcor77() {window.open("https://cor77b.com/register?ref=8GGAEAC1CUR");}
 function xvit88() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13539783");}
