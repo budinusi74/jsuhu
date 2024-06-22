@@ -75,7 +75,7 @@ function xrajatoto3() {window.open("https://rajatoto3dice.com/register?ref=WnDsx
 function xzona66() {window.open("https://app.chaport.com/widget/show.html?appid=662499fd96a23d6d64360a18&cid=c9be17ba-5df4-4675-b2da-b5d4b01c117b&ctoken=tjhqanQzGdz1sIddDDH01h7NtP7ynKV9yw4lj&r=0.6598621208396493&ou=https%3A%2F%2Flareuniontx.org");}
 function xmpo666() {window.open("https://mpo666xr.com/register/WM41P433");}
 function xmpo555() {window.open("https://mpo555-cure.xyz/register/WR3N6NQ9");}
-function xkadobet() {window.open("https://kadobetvip.com/?ref=rakuyaba");}
+function xkadobet() {window.open("https://kadobetae.com/?ref=rakuyaba");}
 function xsweet777() {window.open("https://sweet77.motorcycles/register?ref=GS2AEAB0SVJ");}
 function xhokiwin() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=13036704");}
 function xkas138() {window.open("https://kas138vip.com/?ref=rakuyaba");}
