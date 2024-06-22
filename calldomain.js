@@ -52,7 +52,7 @@ function xrahayu88() {window.open("https://secure.livechatinc.com/customer/actio
 function xboss177() {window.open("https://pastiboss.com/register?ref=rakuyaba");}
 function xneko9() {window.open("https://juraganeko.com/register?ref=rakuyaba");}
 function xshiokambing5() {window.open("https://mainajashiokambing.com/register?ref=rakuyaba");}
-function xplaza4d() {window.open("https://palingtinggi66.com/register?ref=rakuyaba");}
+function xplaza4d() {window.open("https://plaza4dlampu.com/register?ref=rakuyaba");}
 function xshiokambing2() {window.open("https://untungdisini.com/register?ref=rakuyaba");}
 function xneo177() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17925771");}
 function xwishslot() {window.open("https://wishslot.motorcycles/register?ref=1BnwRn2");}
