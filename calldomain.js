@@ -68,7 +68,7 @@ function xm88() {window.open("https://www.facebook.com/login/?next=https%3A%2F%2
 function xalexabet88() {window.open("https://alexabet88a.net/register?ref=4284846");}
 function xraja168() {window.open("https://tawk.to/chat/660c65101ec1082f04de11f5/1hqg6lj00");}
 function xkiw69() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16541139");}
-function xmpo08() {window.open("https://mpo08cam.com/register/WM418MNP");}
+function xmpo08() {window.open("https://mpo08digital.com/register/WM418MNP");}
 function xwis77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17110815");}
 function xdewa234() {window.open("https://dewa234pola.com/register/W42BG936");}
 function xrajatoto3() {window.open("https://rajatoto3dice.com/register?ref=WnDsxSx8");}
