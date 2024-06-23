@@ -74,7 +74,6 @@ function xshiokambing() {window.open("https://shiokambingpro.com/register?ref=ra
 function xhoki177() {window.open("https://jituhoki177.com/register?ref=rakuyaba");}
 function xgacorslot() {window.open("https://gacorslots2.com/register/WQ8K3KMR");}
 function xbom29toto() {window.open("https://b29milk.com/link.php?member=rakuyaba");}
-function xcabe777() {window.open("https://cabe777.xyz/register/W9LK0R2P");}
 function xharbet35() {window.open("https://harbet35cuan.site/?ref=rakuyaba");}
 function xtokekwin() {window.open("https://protokekwin.pro/daftar?ref=rakuyaba");}
 function xdewakoin() {window.open("https://dewakoin-daftar2.top/register?ref=PABAAAP0MH8");}
