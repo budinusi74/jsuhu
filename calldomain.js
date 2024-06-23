@@ -70,7 +70,7 @@ function xraja168() {window.open("https://tawk.to/chat/660c65101ec1082f04de11f5/
 function xkiw69() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16541139");}
 function xmpo08() {window.open("https://mpo08digital.com/register/WM418MNP");}
 function xwis77() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=17110815");}
-function xdewa234() {window.open("https://dewa234pola.com/register/W42BG936");}
+function xdewa234() {window.open("https://dewa234ini.com/register/W42BG936");}
 function xrajatoto3() {window.open("https://rajatoto3dice.com/register?ref=WnDsxSx8");}
 function xzona66() {window.open("https://app.chaport.com/widget/show.html?appid=662499fd96a23d6d64360a18&cid=c9be17ba-5df4-4675-b2da-b5d4b01c117b&ctoken=tjhqanQzGdz1sIddDDH01h7NtP7ynKV9yw4lj&r=0.6598621208396493&ou=https%3A%2F%2Flareuniontx.org");}
 function xmpo666() {window.open("https://mpo666xr.com/register/WM41P433");}
