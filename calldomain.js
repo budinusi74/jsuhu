@@ -65,7 +65,7 @@ function xole777() {window.open("https://mobi.gol8553.com/#/register?referral=nn
 function xaw8() {window.open("https://15.235.136.142:1433/id-id/register?refid=vpwavmyw");}
 function xdafabet() {window.open("https://www.cs-livechat.com/ccaas/v2/en/mc-desktop?brand=Dafa&height=760&width=360&title=avayaChatWindow&product=Dafabet");}
 function xm88() {window.open("https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fm88indoasia%2F");}
-function xalexabet88() {window.open("https://alexabet88a.net/register?ref=4284846");}
+function xalexabet88() {window.open("https://alexabet88c.net/register?ref=4284846");}
 function xraja168() {window.open("https://tawk.to/chat/660c65101ec1082f04de11f5/1hqg6lj00");}
 function xkiw69() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=16541139");}
 function xmpo08() {window.open("https://mpo08digital.com/register/WM418MNP");}
