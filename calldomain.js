@@ -46,7 +46,7 @@ function xdewa234() {window.open("https://dewa234ini.com/register/W42BG936");}
 function xrajatoto3() {window.open("https://rajatoto3dice.com/register?ref=WnDsxSx8");}
 function xmpo666() {window.open("https://mpo666xr.com/register/WM41P433");}
 function xmpo555() {window.open("https://mpo555-cure.xyz/register/WR3N6NQ9");}
-function xkadobet() {window.open("https://kadobetae.com/?ref=rakuyaba");}
+function xkadobet() {window.open("https://kadobetindo.store/?ref=rakuyaba");}
 function xsweet777() {window.open("https://sweet77.homes/register?ref=GS2AEAB0SVJ");}
 function xkas138() {window.open("https://kas138vip.com/?ref=rakuyaba");}
 function xjudi388() {window.open("https://jdmerah.top/register?reff=rakuyaba");}
