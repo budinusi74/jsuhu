@@ -68,7 +68,7 @@ function xsinggah4d() {window.open("https://singgah4d-gacor.com/?ref=rakuyaba");
 function xpoa88() {window.open("https://howali.com/?ref=rakuyaba");}
 function xlotto01() {window.open("https://mineidr.xyz/referral/BUNSIN");}
 function xsquad777() {window.open("https://masuksquad777.com/register?ref=bunsin");}
-function x8togel() {window.open("https://8togel.com/referral/GACOR777");}
+function x8togel() {window.open("#");}
 function xscbet88() {window.open("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
 function xshiokambing() {window.open("https://shiokambingpro.com/register?ref=rakuyaba");}
 function xhoki177() {window.open("https://jituhoki177.com/register?ref=rakuyaba");}
