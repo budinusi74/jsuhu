@@ -1,3 +1,4 @@
+function xcabe777() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9571715");}
 function xdewatogel() {window.open("https://secure.livechatinc.com/licence/5501791/v2/open_chat.cgi");}
 function xmpo888() {window.open("https://secure.livechatenterprise.com/licence/14751111/v2/open_chat.cgi?groups=0");}
 function xnagatop() {window.open("https://secure.livechatinc.com/customer/action/open_chat?license_id=9368830");}
