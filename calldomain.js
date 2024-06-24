@@ -12,7 +12,7 @@ function xlanjut88() {window.open("https://lanjut88pro.xyz/?ref=rakuyaba");}
 function xkoin313() {window.open("https://www.kointop313.xyz/register?ref=8tzjPAm");}
 function xindoagen188() {window.open("https://indagen188.bond/register/W518KB66");}
 function xnexus77() {window.open("https://noblockss.blogspot.com/");}
-function x303hoki() {window.open("https://303hkcepat.com/register/Y66KPQ1K");}
+function x303hoki() {window.open("https://303hokimaju.com/register/Y66KPQ1K");}
 function xapi77() {window.open("https://casnonline.com/account/register/158909985");}
 function xcor77() {window.open("https://cor77b.com/register?ref=8GGAEAC1CUR");}
 function xlotuspelangi() {window.open("https://superlotuspelangi.online/daftar?ref=rakuyaba");}
