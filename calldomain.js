@@ -52,7 +52,7 @@ function xkas138() {window.open("https://kas138vip.com/?ref=rakuyaba");}
 function xjudi388() {window.open("https://jdmerah.top/register?reff=rakuyaba");}
 function xmega55() {window.open("https://www.mega55.org/register?ref=ZGGIGAB00JK");}
 function x66kone() {window.open("https://t.me/W66KONE");}
-function xmpo222() {window.open("https://mpo222juara.com/register/WNR6893G");}
+function xmpo222() {window.open("https://mpo222family.com/register/WNR6893G");}
 function xcoblos4d() {window.open("https://coblosonline4d.xyz/?ref=rakuyaba");}
 function xagenslot168() {window.open("https://linkalt1.store/register/Y7G7GR7B");}
 function xpusaka787() {window.open("http://787pusakajaya.site/register?ref=RAKUYABA");}
