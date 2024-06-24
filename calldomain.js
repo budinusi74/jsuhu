@@ -41,7 +41,7 @@ function xcvtogel() {window.open("https://cvtogelblue.org/link.php?member=rakuya
 function xole777() {window.open("https://mobi.gol8553.com/#/register?referral=nn97j3Yw");}
 function xaw8() {window.open("https://15.235.136.142:1433/id-id/register?refid=vpwavmyw");}
 function xalexabet88() {window.open("https://alexabet88c.net/register?ref=4284846");}
-function xmpo08() {window.open("https://mpo08digital.com/register/WM418MNP");}
+function xmpo08() {window.open("https://mpo08brand.com/register/WM418MNP");}
 function xdewa234() {window.open("https://dewa234ini.com/register/W42BG936");}
 function xrajatoto3() {window.open("https://rajatoto3dice.com/register?ref=WnDsxSx8");}
 function xmpo666() {window.open("https://mpo666th.com/register/WM41P433");}
