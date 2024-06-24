@@ -89,3 +89,4 @@ function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
 function xpphoki() {window.open("https://pphoki66.cfd/?ref=rakuyaba");}
 function xupdate() {window.open("http://judisuhu.online/");}
+function xjudisuhu() {window.open("http://judisuhu.online/");}
