@@ -80,7 +80,7 @@ function xdewakoin() {window.open("https://dewakoin-daftar2.top/register?ref=PAB
 function xdiva168() {window.open("https://diva168agen.com/register?referral=15542094924");}
 function xroyal123() {window.open("https://www.royal123gw.com/register?ref=F88M1AN0ZJ2");}
 function xaquaslot() {window.open("https://aquaslot11.com/?ref=bunsin");}
-function xmpo369() {window.open("https://mpo369ah.com/register/W7N46140");}
+function xmpo369() {window.open("https://mpo369ai.com/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
 function xchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
