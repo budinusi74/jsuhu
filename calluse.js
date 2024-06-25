@@ -59,7 +59,7 @@ function xpusaka787() {location.replace("http://787pusakajaya.site/register?ref=
 function xnewliga365() {location.replace("https://hokispin365.com/?action=register&rc=N8SY7QO738&ci=11");}
 function xslotoppo88() {location.replace("https://slotoppo.bond/?ref=rakuyaba");}
 function xjadijp() {location.replace("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
-function xwisdom77() {location.replace("https://wisdom77ol.mom/?ref=rakuyaba");}
+function xwisdom77() {location.replace("https://wisdom77am.mom/?ref=rakuyaba");}
 function xlembagatoto() {location.replace("https://lembagatoto22.com/link.php?member=rakuyaba");}
 function xunoplay() {location.replace("https://www.unoplay1gacor.net/register/?ref=E48A47B5");}
 function xauto177() {location.replace("https://ciauto177.ink/?ref=rakuyaba");}
