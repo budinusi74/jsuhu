@@ -87,6 +87,6 @@ function xchatfb() {window.open("https://www.facebook.com/profile.php?id=6155349
 function xbetcoinasia() {location.replace("https://betcoinpowerapp.com/?ref=bunsin");}
 function xjangkaslot() {location.replace("https://noblockss.blogspot.com/");}
 function xtogeltoto() {location.replace("https://noblockss.blogspot.com/");}
-function xpphoki() {location.replace("https://pphoki66.cfd/?ref=rakuyaba");}
+function xpphoki() {location.replace("https://pphoki.markets/?ref=rakuyaba");}
 function xupdate() {location.replace("http://judisuhu.online/");}
 function xjudisuhu() {location.replace("http://judisuhu.online/");}
