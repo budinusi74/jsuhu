@@ -20,7 +20,7 @@ function xskslot() {location.replace("https://sklahbray.com/register?ref=rakuyab
 function xibosport() {location.replace("https://v2ibocuan.store/");}
 function xpiontogel() {location.replace("https://piongas.com/link.php?member=rakuyaba");}
 function xdauntogel() {location.replace("https://daunwangi.com/link.php?member=rakuyaba");}
-function xkenzo188() {location.replace("https://fixkenzo188.us/register?ref=A3MMMAF4PO7");}
+function xkenzo188() {location.replace("https://kenzo188new.co/register?ref=A3MMMAF4PO7");}
 function xpmg88() {location.replace("https://pmg88.store/register?ref=u2y78Bp");}
 function xnyaitogel() {location.replace("https://xn--k1aghg9b.co/link.php?member=rakuyaba");}
 function xpintutogel() {location.replace("https://pintutogel.bond/register?referral_code=rakuyaba");}
@@ -75,7 +75,7 @@ function xhoki177() {location.replace("https://jituhoki177.com/register?ref=raku
 function xgacorslot() {location.replace("https://gacorslots2.com/register/WQ8K3KMR");}
 function xbom29toto() {location.replace("https://b29milk.com/link.php?member=rakuyaba");}
 function xharbet35() {location.replace("https://harbet35cuan.site/?ref=rakuyaba");}
-function xtokekwin() {location.replace("https://auratokekwin.vip/daftar?ref=rakuyaba");}
+function xtokekwin() {location.replace("https://blesstokekwin.pro/daftar?ref=rakuyaba");}
 function xdewakoin() {location.replace("https://dewakoin-daftar2.top/register?ref=PABAAAP0MH8");}
 function xdiva168() {location.replace("https://diva168agen.com/register?referral=15542094924");}
 function xroyal123() {location.replace("https://www.royal123gw.com/register?ref=F88M1AN0ZJ2");}
