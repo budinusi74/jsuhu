@@ -72,7 +72,7 @@ function x8togel() {location.replace("#");}
 function xscbet88() {location.replace("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
 function xshiokambing() {location.replace("https://shiokambingpro.com/register?ref=rakuyaba");}
 function xhoki177() {location.replace("https://jituhoki177.com/register?ref=rakuyaba");}
-function xgacorslot() {location.replace("https://gacorslots2.com/register/WQ8K3KMR");}
+function xgacorslot() {location.replace("https://gacorslot.lol/register/WQ8K3KMR");}
 function xbom29toto() {location.replace("https://b29milk.com/link.php?member=rakuyaba");}
 function xharbet35() {location.replace("https://harbet35cuan.site/?ref=rakuyaba");}
 function xtokekwin() {location.replace("https://blesstokekwin.pro/daftar?ref=rakuyaba");}
