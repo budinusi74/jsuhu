@@ -90,3 +90,4 @@ function xtogeltoto() {location.replace("https://noblockss.blogspot.com/");}
 function xpphoki() {location.replace("https://pphoki.markets/?ref=rakuyaba");}
 function xupdate() {location.replace("http://judisuhu.online/");}
 function xjudisuhu() {location.replace("http://judisuhu.online/");}
+function xlompat() {location.replace("https://rebrand.ly/lompat/");}
