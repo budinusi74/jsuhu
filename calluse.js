@@ -57,7 +57,7 @@ function xcoblos4d() {location.replace("https://coblosonline4d.xyz/?ref=rakuyaba
 function xagenslot168() {location.replace("https://linkalternatif2.store/register/Y7G7GR7B");}
 function xpusaka787() {location.replace("http://787pusakajaya.site/register?ref=RAKUYABA");}
 function xnewliga365() {location.replace("https://hokispin365.com/?action=register&rc=N8SY7QO738&ci=11");}
-function xslotoppo88() {location.replace("https://slotoppo.org/?ref=rakuyaba");}
+function xslotoppo88() {location.replace("https://slotoppo.shop/?ref=rakuyaba");}
 function xjadijp() {location.replace("https://jadijpmasterslot.schlepzig.com/?ref=rakuyaba");}
 function xwisdom77() {location.replace("https://wisdom77am.mom/?ref=rakuyaba");}
 function xlembagatoto() {location.replace("https://lembagatoto22.com/link.php?member=rakuyaba");}
