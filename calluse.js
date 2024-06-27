@@ -46,7 +46,7 @@ function xdewa234() {location.replace("https://dewa234ini.com/register/W42BG936"
 function xrajatoto3() {location.replace("https://rajatoto3blade.com/register?ref=WnDsxSx8");}
 function xmpo666() {location.replace("https://mpo666gs.com/register/WM41P433");}
 function xmpo555() {location.replace("https://mpo555-cover.xyz/register/WR3N6NQ9");}
-function xkadobet() {location.replace("https://kadobetindo.store/?ref=rakuyaba");}
+function xkadobet() {location.replace("https://kadobetindo.net/?ref=rakuyaba");}
 function xsweet777() {location.replace("https://sweet77.wiki/register?ref=GS2AEAB0SVJ");}
 function xkas138() {location.replace("https://kas138vip.com/?ref=rakuyaba");}
 function xjudi388() {location.replace("https://jdmerah.top/register?reff=rakuyaba");}
