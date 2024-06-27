@@ -2,7 +2,7 @@ function xno() {location.replace("https://nosafetyy.blogspot.com/");}
 function xpepe77() {location.replace("https://pepe77king.com?ref=wZrVDw");}
 function xhoki77() {location.replace("https://hoki77rtpgacor.com/register?ref=LJYAYaL");}
 function xserbacasino() {location.replace("https://serbaitu.com/register.jsp?ref=HUZQHFUJIpQYDFV=");}
-function xkaikoslot() {location.replace("https://sihkaiko.top/register?ref=q1ZpFde");}
+function xkaikoslot() {location.replace("https://logintgl27.xyz/register?ref=q1ZpFde");}
 function xrusia777() {location.replace("https://maintgl7.site/register?ref=gAFtWvW");}
 function xratu89() {location.replace("https://cikululuk89.site/register?ref=aOog12X");}
 function xarobet88() {location.replace("https://arobet88.com/?ref=rakuyaba");}
