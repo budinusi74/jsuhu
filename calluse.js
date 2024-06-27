@@ -1,4 +1,5 @@
 function xno() {location.replace("https://nosafetyy.blogspot.com/");}
+function xolympus188() {location.replace("https://www.olympus188c.space/register?ref=E3MBNAC0374");}
 function xpepe77() {location.replace("https://pepe77king.com?ref=wZrVDw");}
 function xhoki77() {location.replace("https://hoki77rtpgacor.com/register?ref=LJYAYaL");}
 function xserbacasino() {location.replace("https://serbaitu.com/register.jsp?ref=HUZQHFUJIpQYDFV=");}
