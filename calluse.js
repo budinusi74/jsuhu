@@ -33,9 +33,7 @@ function xspesial303() {location.replace("https://malamminggu.site/register?ref=
 function xxuxu4d() {location.replace("https://xuxu4dba.com/?ref=rakuyaba");}
 function xboss177() {location.replace("https://pastiboss.com/register?ref=rakuyaba");}
 function xneko9() {location.replace("https://juraganeko.com/register?ref=rakuyaba");}
-function xshiokambing5() {location.replace("https://mainajashiokambing.com/register?ref=rakuyaba");}
 function xplaza4d() {location.replace("https://plaza4dlampu.com/register?ref=rakuyaba");}
-function xshiokambing2() {location.replace("https://untungdisini.com/register?ref=rakuyaba");}
 function xwishslot() {location.replace("https://wishslot.sbs/register?ref=1BnwRn2");}
 function xjet88bet() {location.replace("https://jetstargo2.shop/?ref=rakuyaba");}
 function xcvtogel() {location.replace("https://cvtogelblue.org/link.php?member=rakuyaba");}
@@ -71,7 +69,6 @@ function xlotto01() {location.replace("https://hoki01.xyz/referral/BUNSIN");}
 function xsquad777() {location.replace("https://masuksquad777.com/register?ref=bunsin");}
 function x8togel() {location.replace("#");}
 function xscbet88() {location.replace("https://www.scbet88max.com/ref/?rid=rf1e12634b7");}
-function xshiokambing() {location.replace("https://shiokambingpro.com/register?ref=rakuyaba");}
 function xhoki177() {location.replace("https://jituhoki177.com/register?ref=rakuyaba");}
 function xgacorslot() {location.replace("https://gacorslot.lol/register/WQ8K3KMR");}
 function xbom29toto() {location.replace("https://b29milk.com/link.php?member=rakuyaba");}
