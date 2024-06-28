@@ -42,7 +42,6 @@ function xaw8() {location.replace("https://15.235.136.142:1433/id-id/register?re
 function xalexabet88() {location.replace("https://alexabet88e.net/register?ref=4284846");}
 function xmpo08() {location.replace("https://punyampo08.com/register/WM418MNP");}
 function xdewa234() {location.replace("https://dewa234ini.com/register/W42BG936");}
-function xrajatoto3() {location.replace("https://rajatoto3blade.com/register?ref=WnDsxSx8");}
 function xmpo666() {location.replace("https://mpo666za.com/register/WM41P433");}
 function xmpo555() {location.replace("https://mpo555-cover.xyz/register/WR3N6NQ9");}
 function xkadobet() {location.replace("https://kadobetindo.net/?ref=rakuyaba");}
