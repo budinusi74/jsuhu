@@ -77,7 +77,7 @@ function xgacorslot() {location.replace("https://gacorslot.lol/register/WQ8K3KMR
 function xbom29toto() {location.replace("https://b29milk.com/link.php?member=rakuyaba");}
 function xharbet35() {location.replace("https://harbet35cuan.site/?ref=rakuyaba");}
 function xtokekwin() {location.replace("https://suaratokekwin.vip/daftar?ref=rakuyaba");}
-function xdewakoin() {location.replace("https://dewakoin-daftar2.top/register?ref=PABAAAP0MH8");}
+function xdewakoin() {location.replace("https://dewakoin-vip22.xyz/register?ref=PABAAAP0MH8");}
 function xdiva168() {location.replace("https://diva168sg23.com/register?referral=15542094924");}
 function xroyal123() {location.replace("https://www.royal123gw.com/register?ref=F88M1AN0ZJ2");}
 function xaquaslot() {location.replace("https://aquaslot11.com/?ref=bunsin");}
