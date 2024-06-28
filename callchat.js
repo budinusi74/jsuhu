@@ -1,3 +1,6 @@
+function xshiokambing() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=10377597");}
+function xshiokambing2() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=10969007");}
+function xshiokambing5() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=12650925");}
 function xcabe777() {location.replace("https://secure.livechatinc.com/customer/action/open_chat?license_id=9571715");}
 function xdewatogel() {location.replace("https://secure.livechatinc.com/licence/5501791/v2/open_chat.cgi");}
 function xmpo888() {location.replace("https://secure.livechatenterprise.com/licence/14751111/v2/open_chat.cgi?groups=0");}
