@@ -39,7 +39,7 @@ function xcvtogel() {location.replace("https://cvtogelblue.org/link.php?member=r
 function xole777() {location.replace("https://mobi.gol8553.com/#/register?referral=nn97j3Yw");}
 function xaw8() {location.replace("https://15.235.136.142:1433/id-id/register?refid=vpwavmyw");}
 function xalexabet88() {location.replace("https://alexabet88e.net/register?ref=4284846");}
-function xmpo08() {location.replace("https://punyampo08.com/register/WM418MNP");}
+function xmpo08() {location.replace("https://jpmpo08.com/register/WM418MNP");}
 function xdewa234() {location.replace("https://dewa234ini.com/register/W42BG936");}
 function xmpo666() {location.replace("https://mpo666za.com/register/WM41P433");}
 function xmpo555() {location.replace("https://live-555.xyz/register/WR3N6NQ9");}
