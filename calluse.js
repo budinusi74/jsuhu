@@ -7,7 +7,6 @@ function xkaikoslot() {location.replace("https://logintgl27.xyz/register?ref=q1Z
 function xrusia777() {location.replace("https://maintgl7.site/register?ref=gAFtWvW");}
 function xratu89() {location.replace("https://cikululuk89.site/register?ref=aOog12X");}
 function xarobet88() {location.replace("https://arobet88.com/?ref=rakuyaba");}
-function xhedon77() {location.replace("https://hedon77c.wiki/daftar?ref_id=5f6e2101");}
 function xeqn777() {location.replace("https://eqn777.xyz/register/EVCWMKG6");}
 function xlanjut88() {location.replace("https://lanjut88pro.xyz/?ref=rakuyaba");}
 function xkoin313() {location.replace("https://www.kointop313.xyz/register?ref=8tzjPAm");}
