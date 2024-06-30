@@ -80,7 +80,7 @@ function xmpo369() {location.replace("https://mpo369ak.com/register/W7N46140");}
 function xfreebet() {location.replace("https://freebetdemo.blogspot.com/");}
 function xchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
-function xbetcoinasia() {location.replace("https://betcoinpowerapp.com/?ref=bunsin");}
+function xbetcoinasia() {location.replace("https://linkbtc.club/?ref=bunsin");}
 function xjangkaslot() {location.replace("https://noblockss.blogspot.com/");}
 function xtogeltoto() {location.replace("https://noblockss.blogspot.com/");}
 function xpphoki() {location.replace("https://pphoki.markets/?ref=rakuyaba");}
