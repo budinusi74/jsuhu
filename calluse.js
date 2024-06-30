@@ -41,7 +41,7 @@ function xaw8() {location.replace("https://15.235.136.142:1433/id-id/register?re
 function xalexabet88() {location.replace("https://alexabet88e.net/register?ref=4284846");}
 function xmpo08() {location.replace("https://jpmpo08.com/register/WM418MNP");}
 function xdewa234() {location.replace("https://dewa234ini.com/register/W42BG936");}
-function xmpo666() {location.replace("https://mpo666za.com/register/WM41P433");}
+function xmpo666() {location.replace("https://mpo666al.com/register/WM41P433");}
 function xmpo555() {location.replace("https://live-555.xyz/register/WR3N6NQ9");}
 function xkadobet() {location.replace("https://kadobetad.com/?ref=rakuyaba");}
 function xsweet777() {location.replace("https://sweet77.ink/register?ref=GS2AEAB0SVJ");}
